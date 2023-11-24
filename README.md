@@ -17,7 +17,7 @@
 ![figma3](https://github.com/Haedal-Appdong-Hackathon/04_dae_choong/assets/82032792/a614e6dd-0312-48d4-b4e5-608434895153)
 
 ## 시연 영상
-[!시연 영상](https://youtube.com/shorts/W_Ilg3-3xl0?feature=share)
+[![시연 영상]()](https://youtube.com/shorts/W_Ilg3-3xl0?feature=share)
 
 # 역할
 ### Android 개발
